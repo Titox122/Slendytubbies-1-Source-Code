@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="00380-00000-00001-AA910"/>
+            <Binding Key="2" Value="021468087394"/>
+            <Binding Key="4" Value="VG8gYmUgZmlsbGVkIGJ5IE8uRS5NLg=="/>
+        </MachineBindings>
+        <MachineID Value="+SPsAGoyBv2WBLGz+sQUVz9VTtI="/>
+        <SerialHash Value="d087b58b58cc9f5db95d237e2e1fd4157dcb3cc7"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+            <Feature Value="60"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVNEUVYtUVNBRy1GTUVCLUhHV1QtQ1Q2Tg=="/>
+        <SerialMasked Value="F4-SDQV-QSAG-FMEB-HGWT-XXXX"/>
+        <StartDate Value="2017-12-19T00:00:00"/>
+        <StopDate Value="2125-11-17T15:56:43"/>
+        <UpdateDate Value="2025-11-18T15:56:42"/>
+        <InitialActivationDate Value="2017-12-19T04:27:29"/>
+        <LicenseVersion Value="4.x"/>
+        <ClientProvidedVersion Value="4.3.4f1"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>97++f03tc1/nTrG0NiBkDbFeJKE=</DigestValue></Reference></SignedInfo><SignatureValue>yd0ga37mhWeL1J5SPxgokxafNRyqgBjVgsvFtfAsQzvPudsPKOWtJj439ozb1zKUZMLlYWVMGHbu&#13;
+xyrI2hbhv7vhiSrySIeHprOrNebZ0mOpJTKh7qphKCJc0w7rwgNjo61+sTeAGUnHSI3O4NeF8RAs&#13;
+qh+FviR1r1S74r2V1LyG+2xzgEM3z2i7R1lm3BaBfWyqoDiQCg//ijzNdSRzej4K2w0PYBtkFLmG&#13;
+Pz/K6eeJc7EaymyovhKfNijaxuf9bc+swREor9/ajVAYA59PB9zriGyiRDQM7NoADbYZxJnF8wQ8&#13;
+0vgD0cWnQZ/4gxza6T1cAmx2oROJkPltEA8+Rw==</SignatureValue></Signature></root>
