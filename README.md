@@ -2,7 +2,7 @@
 Source Code For The Popular Horror Game Slendytubbies 1
 
 
-3 How To Install?
+# How To Install?
 
 1: Install Unity 4.3.1 Here: https://download.unity3d.com/download_unity/UnitySetup-4.3.4.exe
 
