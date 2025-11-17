@@ -18,6 +18,9 @@ Source Code For The Popular Horror Game Slendytubbies 1
 
 2: If You Want a 100% Accurate Experience, Download Unity 3.4.2: https://download.unity3d.com/download_unity/UnitySetup-3.4.2.exe
 
+
+In case of any legal issues or concerns, please contact me at [computerquamtum@gmail.com].
+
 # Original Source:
 
 http://web.archive.org/web/20130502101117/http://zeoworks.com/misc.php?page=home
